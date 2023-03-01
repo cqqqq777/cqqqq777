@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##🔭 I’m a newbie who is learning Golang
+🔭A newbie who is learning Golang
 
 <!--
 **cqqqq777/cqqqq777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
