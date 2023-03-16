@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🔭A newbie who is learning Golang
-📚 [My blog](81.68.76.44:12345) 
+
+📚 [My blog](http://81.68.76.44:12345) 
 
 
 <!--
