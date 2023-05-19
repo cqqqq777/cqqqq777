@@ -2,7 +2,7 @@
 
 🔭A newbie who is learning Golang
 
-📚 [My blog](http://blog.zcqqq.top) 
+📚 [My blog](http://blog.zcqqqq.top) 
 
 
 <!--
