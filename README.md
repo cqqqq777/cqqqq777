@@ -2,7 +2,7 @@
 
 🔭A newbie who is learning Golang
 
-📚 [My Juejin](https://juejin.cn/user/84011460075709) 
+📚 [My Blog](https://cqqqq777.github.io/) 
 
 
 <!--
